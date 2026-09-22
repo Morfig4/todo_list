@@ -1,17 +1,22 @@
-# todo_list
+To-Do List
 
-A new Flutter project.
+Aplicativo de lista de tarefas desenvolvido em Flutter.
 
-## Getting Started
+Funcionalidades
+Adicionar tarefas
+Visualizar tarefas
+Excluir tarefas
+Salvar tarefas localmente
+Carregar tarefas automaticamente ao iniciar o aplicativo
+Tecnologias utilizadas
+Flutter
+Dart
+Shared Preferences
+Getting Started
 
-This project is a starting point for a Flutter application.
+Este projeto foi desenvolvido como uma atividade acadêmica utilizando Flutter e shared_preferences para persistência local dos dados.
 
-A few resources to get you started if this is your first Flutter project:
+Para executar o projeto:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+flutter pub get
+flutter run
